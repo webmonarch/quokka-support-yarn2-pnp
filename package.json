@@ -1,0 +1,12 @@
+{
+  "name": "quokka-support-yarn2-pnp",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
