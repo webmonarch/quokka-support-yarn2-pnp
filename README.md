@@ -1,6 +1,6 @@
 # quokka-support-yarn2-pnp
 
-Example repo to debug ...
+Example repo to debug https://github.com/wallabyjs/quokka/issues/875
 
 ### Project Creation
 
