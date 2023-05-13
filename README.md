@@ -30,4 +30,5 @@ NOTES
 
 * I can install the package for the current file and it will work for the session. 
 * Installing for the project does nothing.
-* See branches `nodeLinker-pnpm` and `nodeLinker-node-modules`
+* It seems to work as expected for `nodeLinker` `pnpm` and `node-modules`
+  * See branches `nodeLinker-pnpm` and `nodeLinker-node-modules`
