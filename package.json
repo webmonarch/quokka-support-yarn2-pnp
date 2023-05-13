@@ -1,6 +1,7 @@
 {
   "name": "quokka-support-yarn2-pnp",
   "packageManager": "yarn@3.5.1",
+  "type": "module",
   "devDependencies": {
     "@types/node": "^20.1.4",
     "ts-node": "^10.9.1",
