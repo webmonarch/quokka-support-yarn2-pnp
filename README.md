@@ -2,7 +2,7 @@
 
 Example repo to debug ...
 
-## Project Creation Steps
+### Project Creation
 
 ```bash
 git init quokka-support-yarn2-pnp
@@ -12,6 +12,8 @@ yarn add -D typescript ts-node @types/node
 
 yarn install node-fetch
 ```
+
+### Running 
 
 1. Run Quokka on `scratch.ts`
 
@@ -28,3 +30,4 @@ NOTES
 
 * I can install the package for the current file and it will work for the session. 
 * Installing for the project does nothing.
+* See branches `nodeLinker-pnpm` and `nodeLinker-node-modules`
